@@ -4,5 +4,5 @@
 draw_self();
 
 //Draw Text
-DrawSetText(c_black,fMenu,fa_center, fa_top);
-draw_text_ext(readme.x,readme.y - 64,text_current,32,sprite_get_width(sprite5) - textBorder);
+DrawSetText(c_white,fMenu,fa_center, fa_top);
+draw_text_ext(readme.x,readme.y-32,text_current,32,sprite_get_width(sprite5) - textBorder);

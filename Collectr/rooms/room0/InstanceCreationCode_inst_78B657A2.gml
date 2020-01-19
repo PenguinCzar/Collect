@@ -1,1 +1,0 @@
-text = "You Suck My Dude! Like honestly. Get a life."

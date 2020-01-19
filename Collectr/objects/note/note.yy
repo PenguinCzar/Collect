@@ -5,7 +5,7 @@
     "name": "note",
     "eventList": [
         {
-            "id": "099e46af-fc8c-4445-b9de-cd41e432261f",
+            "id": "62682fb4-e442-46a9-a1d6-7e42ddb18c7a",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
