@@ -10,7 +10,9 @@
         "a09186aa-f648-402d-89df-13e9c7d74e39",
         "99931d57-6549-4c03-a0f6-1ea5ccb5854e",
         "447b9b41-dd29-4ae1-84df-2ae859f9a7d4",
-        "1007e6e4-6529-4821-98e0-e3660f144968"
+        "c8e912c6-76bd-4131-b108-dda20b579753",
+        "1007e6e4-6529-4821-98e0-e3660f144968",
+        "8a6ecf0f-01e8-487e-8a92-83d335cf40d6"
     ],
     "filterType": "GMObject",
     "folderName": "persistents",
