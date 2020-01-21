@@ -1,3 +1,3 @@
 /// @description Insert description here
 // You can write your code in this editor
-text = "This one seems to have three letter passcode!"
+text = "'Squeak! Squeak!' A mouse hole?"
